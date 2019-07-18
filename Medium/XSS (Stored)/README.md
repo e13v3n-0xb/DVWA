@@ -12,11 +12,11 @@
 
     1.  Request this URL: http://localhost/dvwa/vulnerabilities/xss_s in browser.
     
-    2.  Inspect the element of Name field and change "maxlength='10'" to "maxlength='100'". 
+    2.  Inspect the element of Name field and change maxlength='10' to maxlength='100'. 
     
-    2.  Input the above payload in the *Name* field.
+    2.  Input the above payload in the Name field.
     
-    3.  It will alert a *'localhost'* popup everytime you visit this webpage.
+    3.  It will alert a 'localhost' popup everytime you visit this webpage.
 
 
 **POC :**
