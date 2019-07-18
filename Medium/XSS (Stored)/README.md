@@ -12,7 +12,7 @@
 
     1.  Request this URL: http://localhost/dvwa/vulnerabilities/xss_s in browser.
     
-    2.  Inspect the element of Name field and increase the value of 'maxlength'. 
+    2.  Inspect the element of Name field and change "maxlength='10'" to "maxlength='100'". 
     
     2.  Input the above payload in the *Name* field.
     
