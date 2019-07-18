@@ -17,7 +17,7 @@
         
     2.  Input the above payload in the input field.
     
-    3. it will alert a '1' popup.
+    3.  It will alert a '1' popup.
     
 **POC :**
     
