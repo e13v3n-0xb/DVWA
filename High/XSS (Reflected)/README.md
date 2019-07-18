@@ -13,10 +13,9 @@
 
 **How to reprouce this Vulnerability :**
 
-    1.  Request this URL: http://127.0.0.1/DVWA/vulnerabilities/xss_r/  and then fill the input field and make a 
-        request in intercept with BurpSuite.
+    1.  Request this URL: http://127.0.0.1/DVWA/vulnerabilities/xss_r/ in browser.
         
-    2.  Change the name parametre value to the payload.
+    2.  Input the above payload in the input field.
     
     3. it will alert a '1' popup.
     
