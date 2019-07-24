@@ -1,4 +1,4 @@
-**Vulnerability Name :** **SQL Injection (Blind)
+**Vulnerability Name :** **SQL Injection (Blind)**
 
 **Vulnerability Discription :** Blind SQL injection is identical to normal SQL Injection except that when an attacker attempts to exploit an application, rather then getting a useful error message, they get a generic page specified by the developer instead. This makes exploiting a potential SQL Injection attack more difficult but not impossible. An attacker can still steal data by asking a series of True and False questions through SQL statements.
 
