@@ -1,4 +1,4 @@
-**Vulnerability Name :** **File Upload Vulnerabilities** 
+**Vulnerability Name :** **File Upload Vulnerability** 
 
 **Vulnerability Discription :** Various web applications allow users to upload files (eg images, music files etc). The uploaded files can create risk if not handled in a secure way. Depending on the how the file is processed and where it is stored the impact of the file upload vulnerability may vary.
      
