@@ -13,6 +13,8 @@ Impact:
 
 **Vulnerable URL :** *http://localhost/dvwa/vulnerabilities/upload/*
 
+**Vulnerable Parameter :** *filename* 
+
 **Malicious File :** *shell.jpg*
 
 **How to reprouce this Vulnerability :**
